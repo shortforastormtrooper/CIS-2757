@@ -1,0 +1,27 @@
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project_1.Form1.resources
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project_1.Properties.Resources.resources
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\bin\Debug\Project 1.exe
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\bin\Debug\Project 1.pdb
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+c:\users\darryl\documents\visual studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\bin\Debug\Project 1.exe
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\bin\Debug\Project 1.pdb
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project_1.Form1.resources
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project_1.Properties.Resources.resources
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+H:\Documents\Visual Studio 2010\Projects\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\bin\Debug\Project 1.exe
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\bin\Debug\Project 1.pdb
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project_1.Form1.resources
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project_1.Properties.Resources.resources
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project 1.csproj.GenerateResource.Cache
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project 1.csproj.CoreCompileInputs.cache
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+H:\Documents\OCC\Winter 2013\CIS 2757\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
